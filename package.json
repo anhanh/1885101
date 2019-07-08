@@ -2,7 +2,10 @@
   "name": "aroma",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/anhanh/aroma",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": "https://github.com/anhanh/1885101",
   "author": "Tuan Anh <tuananh.itc@gmail.com>",
   "license": "MIT",
   "dependencies": {
